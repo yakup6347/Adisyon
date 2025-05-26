@@ -13,7 +13,7 @@ Bu proje, Java ile geliştirilen bir **adisyon yönetim sistemidir**. Garsonlar,
 ## 🖼️ Ekran Görüntüleri
 
 > 📸 Ekran görüntüsü eklemediysen buraya daha sonra resim dosyaları koyabilirsin.
-> Örneğin: ![masa ekranı](https://github.com/yakup6347/Adisyon/img/img_masalar.png)
+> Örneğin: ![masa ekranı](img/img_masalar.png)
 
 ## 🧰 Kullanılan Teknolojiler
 
