@@ -13,15 +13,24 @@ Bu proje, Java ile geliştirilen bir **adisyon yönetim sistemidir**. Garsonlar,
 ## 🖼️ Ekran Görüntüleri
 
 > 📸 Login Arayüzü.
-> ![masa ekranı](img/img_login.png)
+> 
+> ![login](img/img_login.png)
+> 
 > 📸 Masalar Arayüzü.
+> 
 > ![masa ekranı](img/img_masalar.png)
+> 
 > 📸 Adisyon Arayüzü.
-> ![masa ekranı](img/img_adisyon.png)
+> 
+> ![adisyon ekranı](img/img_adisyon.png)
+> 
 > 📸 Ürünler Arayüzü.
-> ![masa ekranı](img/img_items.png)
+> 
+> ![ürünler ekranı](img/img_items.png)
+>
 > 📸 Çalışanlar Arayüzü.
-> ![masa ekranı](img/img_employee.png)
+> 
+> ![çalışanlar ekranı](img/img_employee.png)
 
 ## 🧰 Kullanılan Teknolojiler
 
